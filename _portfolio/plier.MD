@@ -19,7 +19,7 @@ gallery:
 
 Print-in-place models are designs for tools or multi-component structures that are printed using a 3D printer and can be immediately utilized without the need for additional cleaning or assembly. These designs must be meticulously crafted, taking into account various movements and stresses the model will encounter to ensure it functions as intended. However, despite careful design considerations, such models may still face challenges from external factors beyond the initial modeling and design phase. Typically, a combination of both flexible and rigid parts is incorporated into the modeling of these designs.
 
-##Print-in-Place Application
+## Print-in-Place Application
 Print-in-place 3D models have significantly simplified access to essential tools on demand and may even reduce costs. They have also found application in critical areas, such as prosthetics.
 This technology has revolutionized the creation of prosthetics, enhancing efficiency in their production process and providing greater flexibility in customization. If any issues arise with the modeled design, adjustments can be easily made by editing the CAD files, allowing for swift recreation of the prosthetic.
 
@@ -33,7 +33,7 @@ Another significant application is the production of implantable parts. Componen
 
 3D print in place tooth implant
 
-##3D Printing Materials
+## 3D Printing Materials
 
 There are various materials suitable for use in 3D printers for print-in-place designs. However, three of the most popular options are APS, Flexible, and PLA.
 APS, an abbreviation for Acrylonitrile Propylene Styrene, is a cost-effective filament known for its ability to produce durable, rugged, and high-temperature-resistant parts.
@@ -61,7 +61,7 @@ TBU printed design
 
 Indeed, there are numerous other filaments available, such as metal-filled, wood-filled, nylon, and carbon fiber-filled filaments.
 
-##Plier Modeling and Spring effect
+## Plier Modeling and Spring effect
 
 The jaw and handles of the pliers were initially designed based on the necessary dimensions for the functions the pliers will perform. They were crafted to be rigid and ergonomic for comfortable handling. The handles were shaped to provide users with a secure grip while applying pressure.
 
@@ -105,7 +105,7 @@ A gripping structure has been incorporated into the nose of the pliers to enhanc
 
 
 
-##Specifications for the pliers:
+## Specifications for the pliers:
 *	Total length from the end of the handle to the tip of the jaw: 152.64 mm
 *	Total width between the 2 handles: 44.64 mm
 *	Jaw capacity: 6.45 mm, designed to accommodate most types of components
