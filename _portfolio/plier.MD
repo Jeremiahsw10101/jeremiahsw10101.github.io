@@ -23,7 +23,7 @@ Print-in-place models are designs for tools or multi-component structures that a
 Print-in-place 3D models have significantly simplified access to essential tools on demand and may even reduce costs. They have also found application in critical areas, such as prosthetics.
 This technology has revolutionized the creation of prosthetics, enhancing efficiency in their production process and providing greater flexibility in customization. If any issues arise with the modeled design, adjustments can be easily made by editing the CAD files, allowing for swift recreation of the prosthetic.
 
-(image1)
+ image:assets/img/plier/1 HAND PROSTHETIC.jpeg
 
 3D print in place hand prosthetic
 
