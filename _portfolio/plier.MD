@@ -114,4 +114,7 @@ A gripping structure has been incorporated into the nose of the pliers to enhanc
  
 (image15)
 
+# CAD model:
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ee21638c1c79354f1?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
