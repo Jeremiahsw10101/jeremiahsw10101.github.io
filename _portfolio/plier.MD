@@ -2,18 +2,9 @@
 title: "Print-in-place plier"
 excerpt: "This is a print-in-place plier that can be used to hold components"
 header:
-  image: /assets/img/Cyber-Scooter-Banner.jpg
-  teaser: /assets/img/Cyber-Scooter-TH.jpg
-gallery:
-  - url: /assets/img/Cyber-Scooter-1.jpg
-    image_path: assets/img/Cyber-Scooter-1.jpg
-    alt: "placeholder image 1"
-  - url: /assets/img/Cyber-Scooter-2.jpg
-    image_path: assets/img/Cyber-Scooter-2.jpg
-    alt: "placeholder image 2"
-  - url: /assets/img/Cyber-Scooter-3.jpg
-    image_path: assets/img/Cyber-Scooter-3.jpg
-    alt: "placeholder image 3"
+  image: /assets/img/plier/11 FINAL DESIGN.jpeg
+  teaser: /assets/img/plier/11 FINAL DESIGN.jpeg
+
 ---
 ## Introduction
 
@@ -112,7 +103,7 @@ A gripping structure has been incorporated into the nose of the pliers to enhanc
 *	Jaw length: 42.8 mm
 
  
-(image15)
+
 
 # CAD model:
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ee21638c1c79354f1?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
