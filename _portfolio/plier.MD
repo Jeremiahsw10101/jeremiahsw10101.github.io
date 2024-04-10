@@ -26,11 +26,11 @@ Another significant application is the production of implantable parts. Componen
 
 ## 3D Printing Materials
 
-There are various materials suitable for use in 3D printers for print-in-place designs. However, three of the most popular options are APS, Flexible, and PLA.
-APS, an abbreviation for Acrylonitrile Propylene Styrene, is a cost-effective filament known for its ability to produce durable, rugged, and high-temperature-resistant parts.
+There are various materials suitable for use in 3D printers for print-in-place designs. However, three of the most popular options are ABS, Flexible, and PLA.
+ABS, an abbreviation for Acrylonitrile Propylene Styrene, is a cost-effective filament known for its ability to produce durable, rugged, and high-temperature-resistant parts.
 
-![APS](/assets/img/plier/3 APS.jpeg)
-APS printed design
+![ABS](/assets/img/plier/3 ABS.jpeg)
+ABS printed design
 
 
 
@@ -77,7 +77,7 @@ The WEB feature was subsequently employed to generate the support mesh based on 
  
 
 
-The center part is created to link the handles with the jaw, using TBU material to impart a spring-like effect to the structure.
+The center part is created to link the handles with the jaw, using TPU material to impart a spring-like effect to the structure.
 
 ![10](/assets/img/plier/10 adjusted centre part.jpeg)
 
@@ -101,6 +101,9 @@ A gripping structure has been incorporated into the nose of the pliers to enhanc
 *	Total width between the 2 handles: 44.64 mm
 *	Jaw capacity: 6.45 mm, designed to accommodate most types of components
 *	Jaw length: 42.8 mm
+
+##Real life model 
+
 
  
 
