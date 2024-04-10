@@ -67,13 +67,13 @@ An outer shell  was then extruded
 
 A mesh sketch was then reinforced 
  
-![8](/assets/img/plier/8 web like mesh component.jpeg)
+![8](/assets/img/plier/8 web like mesh component 2.jpeg)
 
 
 The WEB feature was then added to generate the support mesh based on the previously created sketch.
 
 
-![9](/assets/img/plier/9 old center part.jpeg)
+![9](/assets/img/plier/9 OLD CENTER PART.jpeg)
  
 
 
