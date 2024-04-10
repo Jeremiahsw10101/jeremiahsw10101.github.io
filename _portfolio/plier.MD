@@ -45,9 +45,9 @@ PLA printed design
 Flexible filament, often referred to as TPU (Thermoplastic Polyurethane) or TBE (Thermoplastic Elastomer), is ideal for printing elastic parts due to its flexibility and resilience.
 
 
-![TBU](/assets/img/plier/5 TBU.jpeg)
+![TPU](/assets/img/plier/5 TBU.jpeg)
 
-TBU printed design
+TPU printed design
 
 Indeed, there are numerous other filaments available, such as metal-filled, wood-filled, nylon, and carbon fiber-filled filaments.
 
