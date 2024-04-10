@@ -8,7 +8,7 @@ header:
 ---
 ## Introduction
 
-Print-in-place models are designs for tools or multi-component structures that are printed using a 3D printer and can be immediately utilized without the need for additional cleaning or assembly. These designs must be meticulously crafted, taking into account various movements and stresses the model will encounter to ensure it functions as intended. However, despite careful design considerations, such models may still face challenges from external factors beyond the initial modeling and design phase. Typically, a combination of both flexible and rigid parts is incorporated into the modeling of these designs.
+Print-in-place models are designed for tools or multi-component structures that can be printed using a 3D printer and then immediately utilized without the need for additional cleaning or assembly. These designs must be meticulously crafted, taking into account various movements and stresses the model will encounter to ensure it functions as intended. Typically, things like a combination of both flexible and rigid parts is incorporated into the modeling of these designs.
 
 ## Print-in-Place Application
 Print-in-place 3D models have significantly simplified access to essential tools on demand and may even reduce costs. They have also found application in critical areas, such as prosthetics.
@@ -26,10 +26,10 @@ Another significant application is the production of implantable parts. Componen
 
 ## 3D Printing Materials
 
-There are various materials suitable for use in 3D printers for print-in-place designs. However, three of the most popular options are ABS, Flexible, and PLA.
-ABS, an abbreviation for Acrylonitrile Propylene Styrene, is a cost-effective filament known for its ability to produce durable, rugged, and high-temperature-resistant parts.
+There are various materials suitable for use in 3D printers for print-in-place designs. However, three of the most popular options are ABS, TPU, and PLA.
+ABS, an abbreviation for Acrylonitrile Butadiene Styrene, is a cost-effective filament known for its ability to produce durable, rugged, and high-temperature-resistant parts.
 
-![ABS](/assets/img/plier/3 ABS.jpeg)
+![ABS](/assets/img/plier/3 APS.jpeg)
 ABS printed design
 
 
@@ -42,21 +42,21 @@ PLA (Polylactic Acid) is primarily utilized when high accuracy is paramount for 
 PLA printed design
 
 
-Flexible filament, often referred to as TPU (Thermoplastic Polyurethane) or TBE (Thermoplastic Elastomer), is ideal for printing elastic parts due to its flexibility and resilience.
+TPU (Thermoplastic Polyurethane) or TPE (Thermoplastic Elastomer), is ideal for printing elastic parts due to its flexibility and resilience.
 
 
 ![TPU](/assets/img/plier/5 TBU.jpeg)
 
 TPU printed design
 
-Indeed, there are numerous other filaments available, such as metal-filled, wood-filled, nylon, and carbon fiber-filled filaments.
+There are numerous other filaments available, such as metal-filled, wood-filled, nylon, and carbon fiber-filled filaments.
 
 ## Plier Modeling and Spring effect
 
 ![6](/assets/img/plier/6 first outline.jpeg)
 
 
-The jaw and handles of the pliers were initially designed based on the necessary dimensions for the functions the pliers will perform. They were crafted to be rigid and ergonomic for comfortable handling. The handles were shaped to provide users with a secure grip while applying pressure.
+The jaw and handles of the pliers were initially designed to pick up small items like resistors. They were crafted to be rigid and ergonomic for comfortable handling. The handles were shaped to provide users with a secure grip while applying pressure.
 
 ![6.1](/assets/img/plier/6.1 extrusion.jpeg)
 
@@ -70,7 +70,7 @@ A mesh sketch was then reinforced
 ![8](/assets/img/plier/8 web like mesh component.jpeg)
 
 
-The WEB feature was subsequently employed to generate the support mesh based on the previously created sketch.
+The WEB feature was then added to generate the support mesh based on the previously created sketch.
 
 
 ![9](/assets/img/plier/9 old center part.jpeg)
@@ -81,12 +81,12 @@ The center part is created to link the handles with the jaw, using TPU material 
 
 ![10](/assets/img/plier/10 adjusted centre part.jpeg)
 
-After a failed print attempt, the mesh was adjusted to incorporate stiffer connectors. This modification was necessary as the middle part was prone to detachment due to weak joints 
+After a failed print attempt, the mesh was adjusted to incorporate stiffer connectors. This modification was necessary as the middle part was prone to detachment due to the joints being too weak. 
 
 ![11](/assets/img/plier/11 FINAL DESIGN.jpeg)
 
 
-The final design of the pliers, which are now fully functional, features strengthened connectors in the mesh, resolving previous issues of detachment during printing. 
+The final design of the pliers, which is now fully functional, features strengthened connectors to the mesh, resolving previous issues of detachment during printing. 
 
 ![12](/assets/img/plier/12 jaw grip.jpeg)
 
@@ -102,13 +102,8 @@ A gripping structure has been incorporated into the nose of the pliers to enhanc
 *	Jaw capacity: 6.45 mm, designed to accommodate most types of components
 *	Jaw length: 42.8 mm
 
-##Real life model 
-
-
  
 
 
 # CAD model:
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ee21638c1c79354f1?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
