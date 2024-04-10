@@ -104,7 +104,7 @@ A gripping structure has been incorporated into the nose of the pliers to enhanc
 
 ## Real life plier and GIF 
 ![14](/assets/img/plier/real life piler.jpeg)
-
+![15](/assets/img/plier/giphy.gif)
 
 
  
