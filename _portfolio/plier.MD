@@ -102,6 +102,11 @@ A gripping structure has been incorporated into the nose of the pliers to enhanc
 *	Jaw capacity: 6.45 mm, designed to accommodate most types of components
 *	Jaw length: 42.8 mm
 
+## Real life plier and GIF 
+![14](/assets/img/plier/real life piler.jpeg)
+
+
+
  
 
 
