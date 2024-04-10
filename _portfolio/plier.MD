@@ -58,7 +58,7 @@ There are numerous other filaments available, such as metal-filled, wood-filled,
 
 The jaw and handles of the pliers were initially designed to pick up small items like resistors. They were crafted to be rigid and ergonomic for comfortable handling. The handles were shaped to provide users with a secure grip while applying pressure.
 
-![6.1](/assets/img/plier/6.1 extrusion.jpeg)
+![6.1](/assets/img/plier/6.1 extrusion.jpg)
 
 
 An outer shell  was then extruded 
