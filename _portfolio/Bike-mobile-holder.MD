@@ -36,8 +36,6 @@ Durability, Reliability, and Cost Considerations:It is made of thick PLA materia
 ## Material choice 
 The bike phone holder was printed using PLA filament. PLA allows the holder to be stiff and rigid. 
 However, if the phone holder is going to be exposed to direct sunlight for an extended period, it needs to be coated with a UV-resistant coating. 
-PLA: Stiff/rigid, easier to print, low-cost. It should be coated with a UV-resistant coating if it will be exposed to direct sunlight for a long period. 
-Less toxic than ABS.
 
 
 ## Assembly instructions
