@@ -40,15 +40,15 @@ However, if the phone holder is going to be exposed to direct sunlight for an ex
     
 ![1](/assets/img/mobile-holder/1 Mobile clamp CAD.jfif)
     
-The top and bottom parts of the clamp is assembled by 4 screws
+The top and bottom parts of the clamp are assembled by 4 screws
     
 ![2](/assets/img/mobile-holder/2 assembling screw.jfif)
     
-The surface base and the shaft of the top clamp is combined by one screw 
+The surface base and the shaft of the top clamp are combined by one screw 
     
 ![3](/assets/img/mobile-holder/3 stopper.jfif)
     
-The mobile top enclosure/stopper can be easily adjusted by moving rails and can be secured by rubber bands that holds it to the mobile base 
+The mobile top enclosure(stopper) can be easily adjusted by moving rails and can be secured by rubber bands that holds it to the mobile base for an additional security step 
 
 
 
