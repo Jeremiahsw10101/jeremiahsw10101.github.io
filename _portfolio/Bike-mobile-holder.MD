@@ -11,17 +11,13 @@ header:
 
 Top-down modeling is a methodology used in modeling complex designs and products. 
 It begins by creating a high-level design of the entire product, often referred to as the top-level assembly.
-Progressively, more details and components are added to ensure the accurate fitting of all the components. 
-This methodology ensures that the product functions as intended.
+Progressively, additional details and components are gradually integrated to guarantee precise fitting of all elements 
+Through this methodology, it is ensured that the product functions as intended.
 
 
 ## Bike mobile-holder top-down modeling
 
-An assembly file for the bike phone mount was initially created. 
-Samples of the bike handlebar and the mobile were then imported into the Fusion 360 program. 
-A clamp was subsequently created using the handlebar cross-section projection, providing the accurate radius needed for the clamp. 
-The shaft and the surface base, which the mobile will be supported by, were then created, ensuring that the joint between the two 
-parts rotates in a 360-degree motion as intended. Finally, an enclosure to secure the mobile in place was added.
+We began by creating an assembly file for the bike phone mount. We imported samples of both the bike handlebar and the mobile device into the Fusion 360 program. Using the handlebar's cross-section projection, we designed a clamp with the precise radius required. Following that, we designed the shaft and surface base to support the mobile device, ensuring seamless 360-degree rotation between the two parts. Lastly, we added an enclosure to securely hold the mobile device in place.
 
 
 ## Rationale behind the design
