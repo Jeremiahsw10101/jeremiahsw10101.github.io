@@ -21,11 +21,9 @@ We began by creating an assembly file for the bike phone mount. We imported samp
 
 
 ## Rationale behind the design
-Functionality:The mobile holder rotates 360 degrees for both horizontal and vertical use. 
-The handlebar clamp is divided into two parts, the bottom and top part, for ease of installation and a firm hold on the bar.
+Functionality: The mobile holder offers full 360-degree rotation, enabling seamless transition between horizontal and vertical orientations. Additionally, the handlebar clamp is segmented into two parts – the bottom and top sections – facilitating effortless installation and ensuring a secure grip on the handlebar.
 
-Manufacturability: The design consists of four parts, three of which can be printed without the need for support material. 
-The entire design can be printed on desktop 3D printers without requiring a high-temperature heat bed or enclosure. 
+Manufacturability: This design comprises four parts, with three of them being printable without the necessity of support material. Moreover, the entire design is compatible with desktop 3D printers, eliminating the requirement for a high-temperature heat bed or enclosure during the printing process.
 
 Ergonomics and User Experience: No tools are needed to mount the mobile phone or rotate it.
 
