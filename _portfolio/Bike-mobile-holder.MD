@@ -25,13 +25,15 @@ parts rotates in a 360-degree motion as intended. Finally, an enclosure to secur
 
 
 ## Rationale behind the design
+Functionality:The mobile holder rotates 360 degrees for both horizontal and vertical use. 
+The handlebar clamp is divided into two parts, the bottom and top part, for ease of installation and a firm hold on the bar.
 
- Functionality:The mobile holder rotates 360 degrees for both horizontal and vertical use. 
- The handlebar clamp is divided into two parts, the bottom and top part, for ease of installation and a firm hold on the bar.
- Manufacturability: The design consists of four parts, three of which can be printed without the need for support material. 
- The entire design can be printed on desktop 3D printers without requiring a high-temperature heat bed or enclosure. 
- Ergonomics and User Experience: No tools are needed to mount the mobile phone or rotate it. 
- Durability, Reliability, and Cost Considerations:It is made of thick PLA material, which is durable, rigid, and cost-effective.
+Manufacturability: The design consists of four parts, three of which can be printed without the need for support material. 
+The entire design can be printed on desktop 3D printers without requiring a high-temperature heat bed or enclosure. 
+
+Ergonomics and User Experience: No tools are needed to mount the mobile phone or rotate it.
+
+Durability, Reliability, and Cost Considerations:It is made of thick PLA material, which is durable, rigid, and cost-effective.
 
                                                         
 
@@ -48,13 +50,13 @@ Less toxic than ABS.
     
 The top and bottom parts of the clamp is assembled by 4 screws
     
-    ![2](/assets/img/mobile-holder/2 assembling screw.jfif)
+![2](/assets/img/mobile-holder/2 assembling screw.jfif)
     
-    The surface base and the shaft of the top clamp is combined by one screw 
+The surface base and the shaft of the top clamp is combined by one screw 
     
-    ![3](/assets/img/mobile-holder/3 stopper.jfif)
+![3](/assets/img/mobile-holder/3 stopper.jfif)
     
-    The mobile top enclosure/stopper can be easily adjusted by moving rails and can be secured by rubber bands that holds it to the mobile base 
+The mobile top enclosure/stopper can be easily adjusted by moving rails and can be secured by rubber bands that holds it to the mobile base 
 
 
 
