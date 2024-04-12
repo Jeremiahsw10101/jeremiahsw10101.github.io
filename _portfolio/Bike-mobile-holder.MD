@@ -44,9 +44,9 @@ Less toxic than ABS.
 
 ## Assembly instructions
     
-    ![1](/assets/img/mobile-holder/1 Mobile clamp CAD.jfif)
+![1](/assets/img/mobile-holder/1 Mobile clamp CAD.jfif)
     
-    The top and bottom parts of the clamp is assembled by 4 screws
+The top and bottom parts of the clamp is assembled by 4 screws
     
     ![2](/assets/img/mobile-holder/2 assembling screw.jfif)
     
