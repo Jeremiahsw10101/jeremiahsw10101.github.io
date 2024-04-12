@@ -6,24 +6,43 @@ header:
   teaser: /assets/img/mobile-holder/0 CAD.jfif
 
 ---
+
 ## Introduction
-Top-down modeling is a methodology used in modeling complex designs and products. It begins by creating a high-level design of the entire product, often referred to as the top-level assembly. Progressively, more details and components are added to ensure the accurate fitting of all the components. This methodology ensures that the product functions as intended.
+
+Top-down modeling is a methodology used in modeling complex designs and products. 
+It begins by creating a high-level design of the entire product, often referred to as the top-level assembly.
+Progressively, more details and components are added to ensure the accurate fitting of all the components. 
+This methodology ensures that the product functions as intended.
 
 
 ## Bike mobile-holder top-down modeling
-An assembly file for the bike phone mount was initially created. Samples of the bike handlebar and the mobile were then imported into the Fusion 360 program. A clamp was subsequently created using the handlebar cross-section projection, providing the accurate radius needed for the clamp. The shaft and the surface base, which the mobile will be supported by, were then created, ensuring that the joint between the two parts rotates in a 360-degree motion as intended. Finally, an enclosure to secure the mobile in place was added.
+
+An assembly file for the bike phone mount was initially created. 
+Samples of the bike handlebar and the mobile were then imported into the Fusion 360 program. 
+A clamp was subsequently created using the handlebar cross-section projection, providing the accurate radius needed for the clamp. 
+The shaft and the surface base, which the mobile will be supported by, were then created, ensuring that the joint between the two 
+parts rotates in a 360-degree motion as intended. Finally, an enclosure to secure the mobile in place was added.
 
 
 ## Rationale behind the design
-  ### Functionality: The mobile holder rotates 360 degrees for both horizontal and vertical use. The handlebar clamp is divided into two parts, the bottom and top part, for ease of installation and a firm hold on the bar.
-  ### Manufacturability: The design consists of four parts, three of which can be printed without the need for support material. The entire design can be printed on desktop 3D printers without requiring a high-temperature heat bed or enclosure. 
+
+  ### Functionality:
+
+The mobile holder rotates 360 degrees for both horizontal and vertical use. 
+
+      The handlebar clamp is divided into two parts, the bottom and top part, for ease of installation and a firm hold on the bar.
+  ### Manufacturability: The design consists of four parts, three of which can be printed without the need for support material. 
+      The entire design can be printed on desktop 3D printers without requiring a high-temperature heat bed or enclosure. 
   ### Ergonomics and User Experience: No tools are needed to mount the mobile phone or rotate it. 
   ### Durability, Reliability, and Cost Considerations:It is made of thick PLA material, which is durable, rigid, and cost-effective.
 
                                                         
 
 ## Material choice 
-The bike phone holder was printed using PLA filament. PLA allows the holder to be stiff and rigid. However, if the phone holder is going to be exposed to direct sunlight for an extended period, it needs to be coated with a UV-resistant coating. PLA: Stiff/rigid, easier to print, low-cost. It should be coated with a UV-resistant coating if it will be exposed to direct sunlight for a long period. Less toxic than ABS.
+The bike phone holder was printed using PLA filament. PLA allows the holder to be stiff and rigid. 
+However, if the phone holder is going to be exposed to direct sunlight for an extended period, it needs to be coated with a UV-resistant coating. 
+PLA: Stiff/rigid, easier to print, low-cost. It should be coated with a UV-resistant coating if it will be exposed to direct sunlight for a long period. 
+Less toxic than ABS.
 
 
 ## Assembly instructions
