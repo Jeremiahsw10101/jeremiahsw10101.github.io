@@ -77,7 +77,7 @@ Top view of the holder
 
 ## Mobile-holder in action
 
-![7](/assets/img/mobile-holder/7 giphy.jfif)
+![7](/assets/img/mobile-holder/7 giphy-2.jfif)
 
 
 
