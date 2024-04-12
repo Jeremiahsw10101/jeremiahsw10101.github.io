@@ -65,15 +65,15 @@ The mobile top enclosure/stopper can be easily adjusted by moving rails and can 
 
 ![4](/assets/img/mobile-holder/4 back of holder.jfif)
 
-Back of holder
+Back view of the holder
 
 ![5](/assets/img/mobile-holder/5 side of holder.jfif)
 
-Side of holder
+Side view of the holder
 
 ![6](/assets/img/mobile-holder/6 top of holder.jfif)
 
-Top of holder
+Top view of the holder
 
 ## Mobile-holder in action
 
