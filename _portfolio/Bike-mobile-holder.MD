@@ -63,23 +63,21 @@ The mobile top enclosure/stopper can be easily adjusted by moving rails and can 
 
 ## Real life image of the bike mobile- holder
 
-    ![4](/assets/img/mobile-holder/4 back of holder.jfif)
+![4](/assets/img/mobile-holder/4 back of holder.jfif)
 
-    Back of holder
+Back of holder
 
-    ![5](/assets/img/mobile-holder/5 side of holder.jfif)
+![5](/assets/img/mobile-holder/5 side of holder.jfif)
 
-          Side of holder
+Side of holder
 
-    ![6](/assets/img/mobile-holder/6 top of holder.jfif)
+![6](/assets/img/mobile-holder/6 top of holder.jfif)
 
-          Top of holder
-
-    
+Top of holder
 
 ## Mobile-holder in action
 
-    ![7](/assets/img/mobile-holder/7 giphy.jfif)
+![7](/assets/img/mobile-holder/7 giphy.jfif)
 
 
 
