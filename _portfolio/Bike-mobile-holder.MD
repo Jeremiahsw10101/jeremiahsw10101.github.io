@@ -17,7 +17,7 @@ Through this methodology, it is ensured that the product functions as intended.
 
 ## Bike mobile-holder top-down modeling
 
-We began by creating an assembly file for the bike phone mount. We imported samples of both the bike handlebar and the mobile device into the Fusion 360 program. Using the handlebar's cross-section projection, we designed a clamp with the precise radius required. Following that, we designed the shaft and surface base to support the mobile device, ensuring seamless 360-degree rotation between the two parts. Lastly, we added an enclosure to securely hold the mobile device in place.
+I began by creating an assembly file for the bike phone mount. I imported samples of both the bike handlebar and the mobile device into the Fusion 360 program. Using the handlebar's cross-section projection, I designed a clamp with the precise radius required. Following that, I designed the shaft and surface base to support the mobile device, ensuring seamless 360-degree rotation between the two parts. Lastly, I added an enclosure to securely hold the mobile device in place.
 
 
 ## Rationale behind the design
