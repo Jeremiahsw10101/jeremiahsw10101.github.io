@@ -26,15 +26,12 @@ parts rotates in a 360-degree motion as intended. Finally, an enclosure to secur
 
 ## Rationale behind the design
 
-  ### Functionality:
-
-The mobile holder rotates 360 degrees for both horizontal and vertical use. 
-
-      The handlebar clamp is divided into two parts, the bottom and top part, for ease of installation and a firm hold on the bar.
-  ### Manufacturability: The design consists of four parts, three of which can be printed without the need for support material. 
-      The entire design can be printed on desktop 3D printers without requiring a high-temperature heat bed or enclosure. 
-  ### Ergonomics and User Experience: No tools are needed to mount the mobile phone or rotate it. 
-  ### Durability, Reliability, and Cost Considerations:It is made of thick PLA material, which is durable, rigid, and cost-effective.
+ Functionality:The mobile holder rotates 360 degrees for both horizontal and vertical use. 
+ The handlebar clamp is divided into two parts, the bottom and top part, for ease of installation and a firm hold on the bar.
+ Manufacturability: The design consists of four parts, three of which can be printed without the need for support material. 
+ The entire design can be printed on desktop 3D printers without requiring a high-temperature heat bed or enclosure. 
+ Ergonomics and User Experience: No tools are needed to mount the mobile phone or rotate it. 
+ Durability, Reliability, and Cost Considerations:It is made of thick PLA material, which is durable, rigid, and cost-effective.
 
                                                         
 
