@@ -7,7 +7,7 @@ header:
 
 ---
 
-## Introduction oooo
+## Introduction
 
 Top-down modeling is a methodology used in modeling complex designs and products. 
 It begins by creating a high-level design of the entire product, often referred to as the top-level assembly.
