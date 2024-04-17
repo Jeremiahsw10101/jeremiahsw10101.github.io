@@ -8,7 +8,10 @@ header:
 ---
 
 ## Introduction
-Generative design is a smart and efficient approach that entails creating diverse models, designs, and solutions using algorithms. These algorithms operate based on a range of requirements, constraints, obstacles, and preserves. The process requires a set of input parameters to be provided for design generation, including:
+
+Generative design is an innovative approach to creating designs using computational algorithms and artificial intelligence. Instead of manually creating a single design, generative design systems explore a vast range of potential solutions based on input parameters and goals. These algorithms generate multiple design alternatives, often producing highly complex and optimized designs that might not be immediately obvious to a human designer.
+
+##### Input parameters includes:
 
 ###### Preserves:
 These are the placeholders (objects) in the design that must remain in place at all times. All preserves should be connected via a mesh to one another without passing through any obstacles.
