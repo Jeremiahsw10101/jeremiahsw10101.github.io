@@ -10,20 +10,26 @@ header:
 ## Introduction
 Generative design is a smart and efficient approach that entails creating diverse models, designs, and solutions using algorithms. These algorithms operate based on a range of requirements, constraints, obstacles, and preserves. The process requires a set of input parameters to be provided for design generation, including preserves, obstacles, mechanical constraints, and static loads
 
-#### Preserves: These are the placeholders (objects) in the design that must remain in place at all times. All preserves should be connected via a mesh to one another without passing through any obstacles.
-#### Obstacles: These are areas that the designer wants to keep empty and untouched by the mesh that the algorithm will create.
-#### Mechanical constraints: These are parts of the preserves that the algorithm should build to create the model.
-#### Static loads: These are the constant loads and forces that the model must withstand under all conditions.
-The algorithm uses these input parameters to perform evaluation and optimization of the model it is designing. 
+###### Preserves:
+These are the placeholders (objects) in the design that must remain in place at all times. All preserves should be connected via a mesh to one another without passing through any obstacles.
+###### Obstacles:
+These are areas that the designer wants to keep empty and untouched by the mesh that the algorithm will create.
+###### Mechanical constraints: 
+These are parts of the preserves that the algorithm should build to create the model.
+###### Static loads:
+These are the constant loads and forces that the model must withstand under all conditions.
 
-The engineer then should then select the best solution that the algorithm provides after a sequence of iterations.
+The algorithm uses these input parameters to perform evaluation and optimization of the model it is designing. The engineer then should then select the best solution that the algorithm provides after a sequence of iterations.
 
 
 ## Purpose of generative modeling:
 
 •	Generative design is highly useful for creating customized and optimized designs that are complex and advanced, often challenging for engineers to achieve.
+
 •	It encourages engineers to practice innovation and out-of-the-box thinking in modeling and design.
+
 •	Additionally, it provides designers with accurate matches for desired weight and strength requirements while optimizing material usage efficiently.
+
 •	This approach saves time and money spent on designing smart, lightweight, yet durable models.
 
 ## Drawbacks of Generative Design:
