@@ -34,10 +34,10 @@ The algorithm uses these input parameters to perform evaluation and optimization
 
 ## Drawbacks of Generative Design:
 
-1.	Algorithm Dependency: The algorithms depend highly on the parameters the designer provides. A suboptimal algorithms or any mistakes in the defined constraints can produce an unreliable design  
-2.	Expertise and Training: Designers have to be well-trained to interpret the results and make the best of use of the generative design.
-3.	Computational Resources: Generative design may be expensive as it needs computational resources, including high-performance computing clusters or cloud-based services.
-4.	Integration Challenges: If only a part of the model is designed using generative modeling, the engineer may face challenges in assembling the whole model together. Human Oversight and Validation: the designs created by the algorithm is not fully reliable and the designer still needs to validate them.
+1.	**Algorithm Dependency** : The algorithms depend highly on the parameters the designer provides. A suboptimal algorithms or any mistakes in the defined constraints can produce an unreliable design  
+2.	**Expertise and Training** : Designers have to be well-trained to interpret the results and make the best of use of the generative design.
+3.	**Computational Resources** : Generative design may be expensive as it needs computational resources, including high-performance computing clusters or cloud-based services.
+4.	**Integration Challenges** : If only a part of the model is designed using generative modeling, the engineer may face challenges in assembling the whole model together. Human Oversight and Validation: the designs created by the algorithm is not fully reliable and the designer still needs to validate them.
 
 
 ## Generative design applications:
