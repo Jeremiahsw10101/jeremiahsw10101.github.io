@@ -42,25 +42,25 @@ The algorithm uses these input parameters to perform evaluation and optimization
 
 ## Generative design applications:
 
-1.	Aerospace and automotive: Such as chassis, suspension systems, and engine parts
-2.	Product Design and Manufacturing: Such as consumer goods, electronics, and industrial equipment.
-3.	Architecture and Construction: Helps in creating complex building structures, facades, and interior layouts.
-4.	Healthcare and Biotechnology: Such as customized medical devices, prosthetics, and implants.
-5.	Art and Creative Industries: Generating unique visualizations, sculptures, and digital artworks.
+1.	**Aerospace and automotive** : Such as chassis, suspension systems, and engine parts
+2.	**Product Design and Manufacturing** : Such as consumer goods, electronics, and industrial equipment.
+3.	**Architecture and Construction** : Helps in creating complex building structures, facades, and interior layouts.
+4.	**Healthcare and Biotechnology** : Such as customized medical devices, prosthetics, and implants.
+5.	**Art and Creative Industries** : Generating unique visualizations, sculptures, and digital artworks.
 
 ##  Powder bed fusion (PBF) and generative design 
 
 The combination of powder bed fusion (PBF) and generative design allows for the merging of advanced manufacturing and computational design, enabling the creation of complex, customized, and optimized components with exceptional efficiency and functionality.
 
-1.	Design Freedom: Combining Generative design with PBF allows for the creation of complex and organic shapes alongside with intricate geometries layer by layer.
-2.	Optimized Structures: Generative design algorithms optimize designs for specific performance criteria like strength-to-weight ratios and material usage efficiency. When combined with PBF's precise material distribution control, this results in minimal material waste and lighter, more efficient structures.
-3.	Customization and Personalization: PBF is adept at producing customized components without the need for specialized tooling or molds. When paired with generative design, which tailor’s designs to individual preferences, this combination is particularly powerful in industries like aerospace, automotive, and healthcare, where personalized components are increasingly needed.
-4.	Iterative Design Process: Generative design's iterative nature complements PBF's manufacturing process. Designers iterate through multiple designs, use PBF to create prototypes, test them, and refine based on results. This iterative loop accelerates optimization, delivering improved final designs in less time.
-5.	Material Flexibility: PBF supports a wide range of materials, including metals, polymers, and ceramics while generative design can optimize designs for specific material properties.
+1.	**Design Freedom** : Combining Generative design with PBF allows for the creation of complex and organic shapes alongside with intricate geometries layer by layer.
+2.	**Optimized Structures** : Generative design algorithms optimize designs for specific performance criteria like strength-to-weight ratios and material usage efficiency. When combined with PBF's precise material distribution control, this results in minimal material waste and lighter, more efficient structures.
+3.	**Customization and Personalization** : PBF is adept at producing customized components without the need for specialized tooling or molds. When paired with generative design, which tailor’s designs to individual preferences, this combination is particularly powerful in industries like aerospace, automotive, and healthcare, where personalized components are increasingly needed.
+4.	**Iterative Design Process** : Generative design's iterative nature complements PBF's manufacturing process. Designers iterate through multiple designs, use PBF to create prototypes, test them, and refine based on results. This iterative loop accelerates optimization, delivering improved final designs in less time.
+5.	**Material Flexibility** : PBF supports a wide range of materials, including metals, polymers, and ceramics while generative design can optimize designs for specific material properties.
 
 
 The unique pairing of powder bed fusion (PBF) and generative design presents significant advantages in the aerospace industry:
 
-1. Lightweight Structures: Generative design can optimize aerospace components for weight reduction while maintaining structural integrity and performance. PBF allows for the fabrication of complex and lightweight structures, ideal for aerospace applications where weight savings directly impact fuel efficiency and payload capacity.
-2. Complex Geometry: Aerospace components often require intricate and complex geometries to achieve optimal aerodynamic performance. PBF's ability to produce such geometries layer by layer complements generative design's capability to generate these complex shapes, leading to more efficient and aerodynamically optimized parts.
-3. Customization and Optimization: Generative design enables the creation of customized components tailored to specific aerospace applications and requirements. standards.
+1. **Lightweight Structures** : Generative design can optimize aerospace components for weight reduction while maintaining structural integrity and performance. PBF allows for the fabrication of complex and lightweight structures, ideal for aerospace applications where weight savings directly impact fuel efficiency and payload capacity.
+2. **Complex Geometry** : Aerospace components often require intricate and complex geometries to achieve optimal aerodynamic performance. PBF's ability to produce such geometries layer by layer complements generative design's capability to generate these complex shapes, leading to more efficient and aerodynamically optimized parts.
+3. **Customization and Optimization** : Generative design enables the creation of customized components tailored to specific aerospace applications and requirements. standards.
