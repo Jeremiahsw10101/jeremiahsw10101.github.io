@@ -2,8 +2,8 @@
 title: "Generative Design"
 excerpt: "Generative Design SLS Truck Hanger + Motor Mount"
 header:
-  image: /assets/img/mobile-holder/0 CAD.jfif
-  teaser: /assets/img/mobile-holder/0 CAD.jfif
+  image: /assets/img/generative design/qa.jpg
+  teaser: /assets/img/generative design/qa.jpg
 
 ---
 
