@@ -1,9 +1,9 @@
 ---
-title: "pickleball padel"
+title: "pickleball paddle"
 excerpt: "Pickleball paddle that conforms to the 2024 USA Pickleball official  Rulebook"
 header:
-  image: /assets/img/paddle/4 full paddle.jpg
-  teaser: /assets/img/paddle/4 full paddle.jpg
+  image: /assets/img/paddle/4.1 full paddle.jpg
+  teaser: /assets/img/paddle/4.1 full paddle.jpg
 
 ---
 
@@ -38,7 +38,7 @@ The weight is evenly distributed between the handle and the body, ensuring that 
 
 ## Pickleball fully assembled
 
-![4](/assets/img/paddle/4 full paddle.jpg)
+![4](/assets/img/paddle/4.1 full paddle.jpg)
 
 
 ## CAD model:
