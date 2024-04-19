@@ -83,7 +83,7 @@ The unique pairing of powder bed fusion (PBF) and generative design presents sig
 3. **Customization and Optimization** : Generative design enables the creation of customized components tailored to specific aerospace applications and requirements. standards.
 
 
-#### Base model with generative Nylon12 design weight about 108 Grams
+#### Base model with generative Nylon12 design weights about 108 Grams
 
 
 ![2](/assets/img/generative design/2 base model.jpg)
@@ -96,7 +96,7 @@ stress analysis:
 
 
 
-#### Base Model with generative AlSi10Mg aluminium design ( weight about 222 Grams )
+#### Base Model with generative AlSi10Mg aluminium design ( weights about 222 Grams )
 
 ![3](/assets/img/generative design/3 base model 2.jpg)
 
