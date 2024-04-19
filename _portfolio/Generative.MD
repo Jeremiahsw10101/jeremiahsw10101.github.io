@@ -104,6 +104,10 @@ stress analysis:
 
 ![1](/assets/img/generative design/1 intial.jpg)
 
+CAD model :
+
+
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e462c2873ba293996?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
 
