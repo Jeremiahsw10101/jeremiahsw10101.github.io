@@ -8,32 +8,36 @@ header:
 ---
 
 ## Design 
-3d printed parts of the pickle ball paddle were printed in a way so that it stays durable during the game and avoids getting delaminated. this was achieved by setting the orientation in a way that the laminates layers were printed in a perpendicular angle to the force instead of parallel to the force 
-A groove profile has been made around the paddle’s edge for easy installation and removal of the interchangeable edge guard.  
+The 3D-printed parts of the pickleball paddle were printed in a manner that ensures durability during gameplay and prevents delamination. This was achieved by orienting the laminated layers perpendicular to the force rather than parallel to it.
+
+A groove profile has been created around the paddle's edge to facilitate the easy installation and removal of the interchangeable edge guard.
+
 
 ![3](/assets/img/paddle/3 flat surface.jpg)
 
 ## Material:
 The grip is made of two materials:
 1-PLA for strength 
-2-TPU mesh for a better grip and to add a comfort grip to the players.
+2-TPU mesh is used to provide players with a better grip and enhanced comfort during gameplay.
 
 
 ![1](/assets/img/paddle/1 material.jpg)
 
-the base part was made using PLA and the handle was made using TPU
+The base part was made using PLA and the handle was made using TPU
 
 ## Weight 
-The paddle’s weight lies between the light to medium weight to cover a greater number of playing styles, both agility and heavy weight 
+The paddle's weight falls within the light to medium range, catering to a wide range of playing styles, including both agility-focused and power-oriented players.
 ## Balance
-The weight was distributed equally on both the handle and the body so that the center of gravity of the paddle lays exactly at the center of the paddle (horizontally and vertically) . This provides the paddle a balance that makes it easier for the player to control the paddle
+The weight is evenly distributed between the handle and the body, ensuring that the paddle's center of gravity is precisely located at its midpoint both horizontally and vertically. This balance enhances the paddle's control and makes it easier for the player to maneuver.
 
-Pickleball fully assembled
+
+
+## Pickleball fully assembled
 
 ![4](/assets/img/paddle/4 full paddle.jpg)
 
 
-CAD model:
+## CAD model:
 
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e15cb22ff3c86cf31?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
