@@ -33,3 +33,7 @@ Pickleball fully assembled
 [4](/assets/img/paddle/4 full paddle.jpg)
 
 
+CAD model:
+
+
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e15cb22ff3c86cf31?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
