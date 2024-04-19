@@ -36,7 +36,7 @@ The weight is evenly distributed between the handle and the body, ensuring that 
 
 
 
-## Pickleball fully assembled
+## Pickleball paddle fully assembled
 
 ![4](/assets/img/paddle/4.1 full paddle.jpg)
 
