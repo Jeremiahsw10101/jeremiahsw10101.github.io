@@ -20,12 +20,18 @@ These are areas that the designer wants to keep empty and untouched by the mesh 
 
 ![6](/assets/img/generative design/6 obstacle and reserve.jpg)
 
+These are the preserves( green colored) and obstacles ( red colored)
+
 ###### Mechanical constraints: 
 These are parts of the preserves that the algorithm should build to create the model.
 ###### Static loads:
-These are the constant loads and forces that the model must withstand under all conditions.
+
 
 ![7](/assets/img/generative design/7 static load and constraints.jpg)
+
+
+These are the constant loads and forces that the model must withstand under all conditions.
+
 
 These are the static loads and constraints of the skateboard trucks 
 
