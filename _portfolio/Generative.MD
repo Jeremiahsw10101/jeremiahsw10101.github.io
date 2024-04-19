@@ -29,7 +29,7 @@ These are the constant loads and forces that the model must withstand under all 
 
 These are the static loads and constraints of the skateboard trucks 
 
-The algorithm uses these input parameters to perform evaluation and optimization of the model it is designing. The engineer then should then select the best solution that the algorithm provides after a sequence of iterations.
+The algorithm utilizes these input parameters to evaluate and optimize the model it is designing. Subsequently, the engineer should select the best solution provided by the algorithm after a sequence of iterations.
 
 
 ## Purpose of generative modeling:
@@ -38,16 +38,17 @@ The algorithm uses these input parameters to perform evaluation and optimization
 
 •	It encourages engineers to practice innovation and out-of-the-box thinking in modeling and design.
 
-•	Additionally, it provides designers with accurate matches for desired weight and strength requirements while optimizing material usage efficiently.
+•	It provides designers with accurate matches for desired weight and strength requirements while optimizing material usage efficiently.
 
-•	This approach saves time and money spent on designing smart, lightweight, yet durable models.
+•	It saves time and money spent on designing smart, lightweight, yet durable models.
 
 ## Drawbacks of Generative Design:
 
 1.	**Algorithm Dependency** : The algorithms depend highly on the parameters the designer provides. A suboptimal algorithms or any mistakes in the defined constraints can produce an unreliable design  
 2.	**Expertise and Training** : Designers have to be well-trained to interpret the results and make the best of use of the generative design.
 3.	**Computational Resources** : Generative design may be expensive as it needs computational resources, including high-performance computing clusters or cloud-based services.
-4.	**Integration Challenges** : If only a part of the model is designed using generative modeling, the engineer may face challenges in assembling the whole model together. Human Oversight and Validation: the designs created by the algorithm is not fully reliable and the designer still needs to validate them.
+4.	**Integration Challenges** : If only a part of the model is designed using generative modeling, the engineer may face challenges in assembling the whole model together. 
+5.  **Human Oversight and Validation** : the designs created by the algorithm is not fully reliable and the designer still needs to validate them.
 
 
 ## Generative design applications:
@@ -104,7 +105,7 @@ stress analysis:
 
 ![1](/assets/img/generative design/1 intial.jpg)
 
-CAD model :
+### CAD model :
 
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e462c2873ba293996?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
