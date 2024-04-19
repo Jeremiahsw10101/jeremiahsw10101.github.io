@@ -13,7 +13,7 @@ The 3D-printed parts of the pickleball paddle were printed in a manner that ensu
 A groove profile has been created around the paddle's edge to facilitate the easy installation and removal of the interchangeable edge guard.
 
 
-![3](/assets/img/paddle/3 flat surface.jpg)
+![3](/assets/img/paddle/3.1 flat surface.jpg)
 
 ## Material:
 The grip is made of two materials:
