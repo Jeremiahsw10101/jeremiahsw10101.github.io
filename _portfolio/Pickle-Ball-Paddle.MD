@@ -27,7 +27,7 @@ The base part was made using PLA and the handle was made using TPU
 
 The Bottom Cap of the Paddle
 
-![2](/assets/img/paddle/2 bottom cap.jpg)
+![2](/assets/img/paddle/2.1 bottom cap.jpg)
 
 ## Weight 
 The paddle's weight falls within the light to medium range, catering to a wide range of playing styles, including both agility-focused and power-oriented players.
