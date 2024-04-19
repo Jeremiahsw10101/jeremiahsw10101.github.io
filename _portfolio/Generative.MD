@@ -18,14 +18,14 @@ These are the placeholders (objects) in the design that must remain in place at 
 ###### Obstacles:
 These are areas that the designer wants to keep empty and untouched by the mesh that the algorithm will create.
 
-[6](/assets/img/generative design/6 obstacle and reserve.jpg)
+![6](/assets/img/generative design/6 obstacle and reserve.jpg)
 
 ###### Mechanical constraints: 
 These are parts of the preserves that the algorithm should build to create the model.
 ###### Static loads:
 These are the constant loads and forces that the model must withstand under all conditions.
 
-[7](/assets/img/generative design/7 static load and constraints.jpg)
+![7](/assets/img/generative design/7 static load and constraints.jpg)
 
 These are the static loads and constraints of the skateboard trucks 
 
@@ -79,30 +79,30 @@ The unique pairing of powder bed fusion (PBF) and generative design presents sig
 #### Base model with generative Nylon12 design weight about 108 Grams
 
 
-[2](/assets/img/generative design/2 base model.jpg)
+![2](/assets/img/generative design/2 base model.jpg)
 
 
 stress analysis:
 
 
-[5](/assets/img/generative design/5 nylon design.jpg)
+![5](/assets/img/generative design/5 nylon design.jpg)
 
 
 
 #### Base Model with generative AlSi10Mg aluminium design ( weight about 222 Grams )
 
-[3](/assets/img/generative design/3 base model 2.jpg)
+![3](/assets/img/generative design/3 base model 2.jpg)
 
 
 stress analysis:
 
-[4](/assets/img/generative design/4 alum design.jpg)
+![4](/assets/img/generative design/4 alum design.jpg)
 
 
 
 #### Base Model Fully assembled 
 
-[1](/assets/img/generative design/1 intial.jpg)
+![1](/assets/img/generative design/1 intial.jpg)
 
 
 
