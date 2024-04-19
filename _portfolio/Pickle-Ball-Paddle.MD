@@ -11,7 +11,7 @@ header:
 3d printed parts of the pickle ball paddle were printed in a way so that it stays durable during the game and avoids getting delaminated. this was achieved by setting the orientation in a way that the laminates layers were printed in a perpendicular angle to the force instead of parallel to the force 
 A groove profile has been made around the paddle’s edge for easy installation and removal of the interchangeable edge guard.  
 
-[3](/assets/img/paddle/3 flat surface.jpg)
+![3](/assets/img/paddle/3 flat surface.jpg)
 
 ## Material:
 The grip is made of two materials:
@@ -19,7 +19,7 @@ The grip is made of two materials:
 2-TPU mesh for a better grip and to add a comfort grip to the players.
 
 
-[1](/assets/img/paddle/1 material.jpg)
+![1](/assets/img/paddle/1 material.jpg)
 
 the base part was made using PLA and the handle was made using TPU
 
@@ -30,7 +30,7 @@ The weight was distributed equally on both the handle and the body so that the c
 
 Pickleball fully assembled
 
-[4](/assets/img/paddle/4 full paddle.jpg)
+![4](/assets/img/paddle/4 full paddle.jpg)
 
 
 CAD model:
