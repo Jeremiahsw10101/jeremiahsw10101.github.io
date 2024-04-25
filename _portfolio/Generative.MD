@@ -111,6 +111,22 @@ stress analysis:
 
 ![1](/assets/img/generative design/1 intial.jpg)
 
+### Real life Model :
+
+![8/](assets/img/generative design/8 real life 1.jpg)
+
+This is the printed Model 
+
+![9](assets/img/generative design/9 in action.jpg)
+
+After Model installation on the skateboard 
+
+![10](assets/img/generative design/10 gif.gif)
+
+Model GIF 
+
+
+
 ### CAD model :
 
 
