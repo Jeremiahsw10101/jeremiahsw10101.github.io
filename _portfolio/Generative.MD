@@ -123,7 +123,7 @@ After Model installation on the skateboard
 
 ![10](/assets/img/generative design/10 gif.gif)
 
-Model GIF 
+ GIF 
 
 
 
